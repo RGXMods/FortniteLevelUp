@@ -3,6 +3,8 @@
 ## Title:  |cffff36bbFortnite|r Level Up|cffff36bb!|r
 ## IconTexture: Interface\AddOns\FortniteLevelUp\media\icon
 ## Author: DonnieDice
+## Category: RGX
+## Group: RGX
 ## SavedVariables: FNLUSettings
 ## RequiredDeps: RGX-Framework
 ## Notes:  Play a Fortnite-inspired level-up sound!  |n|r  |cffff36bb/fnlu -|r Open help  |n|r   |cffff36bbBy DonnieDice|r
