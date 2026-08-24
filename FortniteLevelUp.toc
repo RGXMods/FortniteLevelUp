@@ -10,7 +10,7 @@
 ## Notes:  Play a Fortnite-inspired level-up sound!  |n|r  |cffff36bb/fnlu -|r Open help  |n|r   |cffff36bbBy DonnieDice|r
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/FortniteLevelUp
+## X-Website: https://github.com/RGXMods/FortniteLevelUp
 ## X-Curse-Project-ID: 594129
 ## X-Wago-ID: e56naAN9
 ## X-WoWI-ID: 26253
