@@ -13,7 +13,6 @@
 ## X-Website: https://github.com/RGXMods/FortniteLevelUp
 ## X-Curse-Project-ID: 594129
 ## X-Wago-ID: e56naAN9
-## X-WoWI-ID: 26253
 
 data\locales.lua
 data\core.lua
