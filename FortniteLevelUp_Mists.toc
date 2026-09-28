@@ -1,4 +1,4 @@
-﻿## Interface: 20506
+﻿## Interface: 50504
 ## Version: 2.0.4
 ## Title:  |cffff36bbFortnite|r Level Up|cffff36bb!|r
 ## IconTexture: Interface\AddOns\FortniteLevelUp\media\icon.tga

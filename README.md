@@ -42,12 +42,15 @@ FNLU does not alter leveling, experience gains, UI frames, or game data. It only
 
 | WoW flavor | TOC | Interface |
 |---|---|---:|
-| Retail | `FortniteLevelUp.toc` | `120007` |
-| Wrath Classic | `FortniteLevelUp_Wrath.toc` | `30403` |
-| Burning Crusade Classic | `FortniteLevelUp_TBC.toc` | `20504` |
-| Classic Era | `FortniteLevelUp_Vanilla.toc` | `11500` |
+| Retail | `FortniteLevelUp.toc` | `120100` |
+| WoW Forever (Beta) | `FortniteLevelUp_Forever.toc` | `16001` |
+| Mists of Pandaria Classic | `FortniteLevelUp_Mists.toc` | `50504` |
+| Cataclysm Classic | `FortniteLevelUp_Cata.toc` | `40402` |
+| Wrath Classic | `FortniteLevelUp_Wrath.toc` | `38002` |
+| Burning Crusade Classic | `FortniteLevelUp_TBC.toc` | `20506` |
+| Classic Era | `FortniteLevelUp_Vanilla.toc` | `11509` |
 
-These values describe the preserved release metadata. The addon is deprecated, so they are not a promise of compatibility with later game clients.
+These values describe the current release metadata. The addon is deprecated, so they are not a promise of compatibility with later game clients.
 
 ***
 

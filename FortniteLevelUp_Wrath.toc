@@ -1,8 +1,10 @@
-## Interface: 30403
-## Version: 2.0.1
+﻿## Interface: 38002
+## Version: 2.0.4
 ## Title:  |cffff36bbFortnite|r Level Up|cffff36bb!|r
-## IconTexture: Interface\AddOns\FortniteLevelUp\media\icon
+## IconTexture: Interface\AddOns\FortniteLevelUp\media\icon.tga
 ## Author: DonnieDice
+## Category: RGX
+## Group: RGX
 ## SavedVariables: FNLUSettings
 ## RequiredDeps: RGX-Framework
 ## Notes:  Play a Fortnite-inspired level-up sound!  |n|r  |cffff36bb/fnlu -|r Open help  |n|r   |cffff36bbBy DonnieDice|r
