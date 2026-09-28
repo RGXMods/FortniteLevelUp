@@ -54,6 +54,12 @@ These values describe the current release metadata. The addon is deprecated, so 
 
 ***
 
+## <span style="color: #94499b;">🌐 Language Support</span>
+
+FNLU ships in all 12 WoW client languages: English (enUS), German (deDE), Spanish (esES/esMX), French (frFR), Italian (itIT), Korean (koKR), Brazilian Portuguese (ptBR), European Portuguese (ptPT), Russian (ruRU), Simplified Chinese (zhCN), and Traditional Chinese (zhTW). The client language is detected automatically when the addon loads; any value that is not localized for the detected locale falls back to its English (enUS) string, so no untranslated key ever leaks into the chat UI. Spanish (esES) and Latin American Spanish (esMX) share one translation set by design.
+
+***
+
 ## <span style="color: #94499b;">📥 Installation</span>
 
 1. Download a packaged release of FortniteLevelUp and install RGX-Framework.

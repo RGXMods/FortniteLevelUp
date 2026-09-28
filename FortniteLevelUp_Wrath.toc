@@ -11,6 +11,7 @@
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
 ## X-Website: https://github.com/RGXMods/FortniteLevelUp
+## X-Localizations: enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, zhTW
 ## X-Curse-Project-ID: 594129
 ## X-Wago-ID: e56naAN9
 
